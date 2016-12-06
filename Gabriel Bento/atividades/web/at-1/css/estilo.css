@@ -1,0 +1,103 @@
+.listaMenu{
+	list-style-type: none;
+	font-family: 'Indie Flower', cursive;
+	color:#B881E8;
+	width:541px;
+	margin-left: -30px;
+}
+.itemMenu{
+	float:left;
+	text-align:center;
+	padding:10px;
+	margin:2px;
+	background-color:#8DFFF7;
+	border-style:dotted solid dotted solid;
+}
+.itemMenu:hover{
+	background-color:#B881E8;
+	color:#8DFFF7;
+}
+.itemMenu a:link{
+	text-decoration:none;
+	color:#B881E8;
+	padding: 10px;
+}
+.itemMenu a:hover{
+	color:#8DFFF7;
+	text-decoration:none;
+}
+.itemMenu a:visited{
+	text-decoration:none;
+}
+
+.tudo{
+	margin:0 auto;
+	width:1000px;
+}
+.topo{
+	width:1000px;
+	height:100px;
+	background-color:#9AFFF7;
+}
+.menuH{
+	width:1000px;
+	float: left;
+	background-color:#8DFFF7;
+}
+.menuV{
+	width:250px;
+	height:350px;
+	background-color:#FFBC9A;
+	float:left;
+}
+.conteudo{
+	width:750px;
+	height:350px;
+	background-color:#E3E881;
+	float:left;
+}
+.rodape{
+	width:1000px;
+	height:100px;
+	clear:both;
+	background-color:#8FBC8F;
+}
+
+.texto{
+	width:450px;
+	float:left;
+	padding:15px;
+}
+.texto h2{
+	font-family:'Indie Flower', cursive;
+	font-size:26px;
+}
+.texto p{
+	font-family:'Indie Flower', cursive;
+	font-size:16px;
+}
+
+.figuraTexto{
+	width:230px;
+	padding:15px;
+	float:left;
+	margin-top:80px;
+}
+.figuraTexto img{
+	width:230px;
+}
+
+.banner{
+	background:url(../img/banner.jpg) repeat-x top ;
+	
+	float: left;
+}
+
+.teste{
+	float:left;
+	text-align:center;
+	padding:19px;
+	margin:3px;
+	background-color:#BDB76B;
+	border-style:dotted solid dotted solid;
+}
